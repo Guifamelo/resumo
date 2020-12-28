@@ -1,0 +1,31 @@
+.fs-16{
+font-size: 16pt;
+}
+.verdeMusgo{
+    color: darkgreen;
+}
+.vermIndiano{
+    color: indianred;
+}
+.azulMarinho{
+    color: #00008b;
+}
+.rosa{
+    color: pink;
+}
+.gold{
+    color: gold;
+}
+.vermelho{
+    color: red;
+}
+.flexcontainer{
+    display: flex;
+    background-color: sienna;
+}
+.flexcontainer > div{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
