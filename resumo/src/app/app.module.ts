@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { FeedComponent } from './feed/feed.component';
+import { SobreNosComponent } from './sobre-nos/sobre-nos.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     RodapeComponent,
-    FeedComponent
+    FeedComponent,
+    SobreNosComponent
   ],
   imports: [
     BrowserModule,
